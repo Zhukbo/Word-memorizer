@@ -1,0 +1,15 @@
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\bin\Debug\word_memorizer.exe.config
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\bin\Debug\word_memorizer.exe
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\bin\Debug\word_memorizer.pdb
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\word_memorizer.csprojAssemblyReference.cache
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\MainWindow.g.cs
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\App.g.cs
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\word_memorizer_MarkupCompile.cache
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\word_memorizer_MarkupCompile.lref
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\MainWindow.baml
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\word_memorizer.g.resources
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\word_memorizer.Properties.Resources.resources
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\word_memorizer.csproj.GenerateResource.cache
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\word_memorizer.csproj.CoreCompileInputs.cache
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\word_memorizer.exe
+C:\Project\English_word_memorizer\word_memorizer\word_memorizer\obj\Debug\word_memorizer.pdb
